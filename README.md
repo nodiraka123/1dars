@@ -12,5 +12,8 @@ print(a-b)
 print(a*b)
 #bo'lish      '/'
 print(a/b)
+#darajaga ko'tarish  '**'
+print(a**b)
+
 
 
