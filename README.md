@@ -1,6 +1,6 @@
 # 1dars
 print("Assalomu Aleykum")
-'''Matematik amallar'''
+'''Arifmetik amallar'''
 a=5
 b=6
 c=7
